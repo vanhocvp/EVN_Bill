@@ -1,0 +1,10 @@
+**/.vscode/
+**/__pycache__/
+**/drive-download-20210323T091747Z-001/
+**/drive-download-20210323T091747Z-001.zip/
+**/env/
+**/_build/
+**/*.log
+**/*.zip
+**/training_1/
+**/training_2/
